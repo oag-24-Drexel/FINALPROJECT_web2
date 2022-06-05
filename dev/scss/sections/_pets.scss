@@ -3,7 +3,9 @@
 ============= */
 
 
-.pets{
+.content{
     display:grid;
     grid-template-columns: 40% 60%;
+
+    background-color: red;
 }
